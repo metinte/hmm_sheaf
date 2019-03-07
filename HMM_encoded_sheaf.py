@@ -1,4 +1,4 @@
-"""Metin Toksoz-Exley- Research Sheaf Construction - October 2018"""
+"""Metin Toksoz-Exley- Research Sheaf Construction - October 2018 using pysheaf package from PYSHEAF"""
 import math 
 import numpy as np 
 import pysheaf as ps 
